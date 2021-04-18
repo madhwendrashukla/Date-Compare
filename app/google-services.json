@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1032248620744",
+    "project_id": "fir-phone-auth-5bd8e",
+    "storage_bucket": "fir-phone-auth-5bd8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032248620744:android:476c816df9077553eed7fd",
+        "android_client_info": {
+          "package_name": "com.madhwendra.datecompare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032248620744-q33et9jc5q3sbirr778v93gvvqm1428c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZs9P14ekgJlCUJekXoDVjKKKrNKDdiXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032248620744-q33et9jc5q3sbirr778v93gvvqm1428c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032248620744:android:aa740e4c6403543eeed7fd",
+        "android_client_info": {
+          "package_name": "com.madhwendra.firebasephoneauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032248620744-vb0e2fs4etocm0vvc7a7jcbsmribviid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.madhwendra.firebasephoneauth",
+            "certificate_hash": "a766f7542d4286d5da4c402593d2b427b4967dc3"
+          }
+        },
+        {
+          "client_id": "1032248620744-q33et9jc5q3sbirr778v93gvvqm1428c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZs9P14ekgJlCUJekXoDVjKKKrNKDdiXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032248620744-q33et9jc5q3sbirr778v93gvvqm1428c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
